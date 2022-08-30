@@ -1,1 +1,1 @@
-alx is cool
+Alx is a good course 
